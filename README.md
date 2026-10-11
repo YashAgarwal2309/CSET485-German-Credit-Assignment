@@ -80,7 +80,7 @@ The reflection discusses the implications of the analysis for model deployment, 
 
 The Jupyter Notebook in this repository is named:
 
-`Untitled9.ipynb`
+`CSET485_German_Credit_Analysis.ipynb`
 
 To inspect or run the analysis:
 
@@ -120,6 +120,12 @@ Install the dependencies required by the actual notebook before execution.
 ## 11. Repository Contents
 
 - `README.md` — project description, methodology, and instructions.
-- `Untitled9.ipynb` — Jupyter Notebook containing the analysis and computations.
+- `CSET485_German_Credit_Analysis.ipynb` — Jupyter Notebook containing the analysis and computations.
 
 Additional dependency or output files should be included when they are required to run the notebook or reproduce the submitted report.
+
+---
+
+**Author:** Yash Agarwal  
+**Enrolment Number:** S24CSEU0244
+
